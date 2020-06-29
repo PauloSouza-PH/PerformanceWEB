@@ -1,6 +1,5 @@
 # Arquivo de configuração para deploy no Google App Engine que veremos na aula 4
 
-application: sentinel1465
 runtime: nodejs10
 
 handlers:
